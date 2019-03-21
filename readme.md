@@ -24,6 +24,12 @@
     <li>go to: localhost:8000</li>
 </ol>
 
+<h1>start-up instruction</h1>
+<ol>
+    <li>open your browser</li>
+    <li>go to: localhost:8000</li>
+</ol>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
