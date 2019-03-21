@@ -19,9 +19,6 @@
     <li>go back to the command prompt</li>
     <li><b>type:</b> php artisan key:generate</li>
     <li><b>type:</b> php artisan migrate</li>
-    <li><b>type:</b> php artisan serve</li>
-    <li>open your browser</li>
-    <li>go to: localhost:8000</li>
 </ol>
 
 <h1>start-up instruction</h1>
