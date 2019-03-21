@@ -26,6 +26,9 @@
 
 <h1>start-up instruction</h1>
 <ol>
+    <li>open the command prompt</li>
+    <li>go to the project folder</li>
+    <li><b>type:</b> php artisan serve</li>
     <li>open your browser</li>
     <li>go to: localhost:8000</li>
 </ol>
